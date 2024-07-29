@@ -1,0 +1,7 @@
+pandas
+tqdm
+pathlib
+clean-text[gpl]
+requests
+datasets
+google-cloud-translate==2.0.1
